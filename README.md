@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHcxbGRvODd5NDJ2NWpmMjZyN216eGM2azA0c2hyNjgzMXhyZmZzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E7kUhnT9eDok/giphy.gif">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
 ---
 
