@@ -17,9 +17,8 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/embed/9E7kUhnT9eDok" width="480" height="284" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-darkness-awakens-9E7kUhnT9eDok">via GIPHY</a></p>">
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHcxbGRvODd5NDJ2NWpmMjZyN216eGM2azA0c2hyNjgzMXhyZmZzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E7kUhnT9eDok/giphy.gif">
 </p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
